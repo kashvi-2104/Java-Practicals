@@ -2,7 +2,7 @@ import java.util.*;
 public class Driver2{
     public static void main(String[] args) {
 
-        String[] log = {"08:05 Krisha Hello","09:10 Diya Hello everyone!","12:15 Ishita Hello!!"};
+        String[] log = {"08:05 Krisha Hello","09:10 kashvi Hello everyone!","12:15 Ishita Hello!!"};
 
         Scanner sc = new Scanner(System.in);
 
