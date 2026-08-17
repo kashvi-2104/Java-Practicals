@@ -48,9 +48,9 @@ class intern extends employee{
 public class payroll {
     public static void main(String[] args) {
          employee[] emp = {
-            new fulltime("Krisha", 101, 50000),
-            new partime("Ishita", 102, 80, 300),
-            new intern("Diya", 103, 15000),
+            new fulltime("Kashvi", 101, 50000),
+            new partime("Dhyana", 102, 80, 300),
+            new intern("Riya", 103, 15000),
         };
         double total = 0;
         for (employee e : emp) {
