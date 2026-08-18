@@ -10,7 +10,7 @@ public class Driver1 {
             System.out.println("Contains Digit   : " + PasswordChecker.hasdigit(pwd));
             System.out.println("Special Character: " + PasswordChecker.hasspecial(pwd));
             System.out.println("Strength: " + PasswordChecker.strength(pwd));
-            System.out.println("----------------------------");
+            System.out.println("-----------------------------");
         }
     }
 }
