@@ -1,0 +1,3 @@
+Practical 09
+synchronized account operations and Runnable worker
+Run: javac MiniBank.java && java MiniBank

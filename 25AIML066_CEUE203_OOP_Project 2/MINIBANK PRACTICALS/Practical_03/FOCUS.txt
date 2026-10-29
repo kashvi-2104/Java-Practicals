@@ -1,0 +1,3 @@
+Practical 03
+toString, equals, hashCode, nested Address and clone
+Run: javac MiniBank.java && java MiniBank

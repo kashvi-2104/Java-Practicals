@@ -1,0 +1,3 @@
+Practical 06
+interfaces, functional interface, lambda-capable design
+Run: javac MiniBank.java && java MiniBank

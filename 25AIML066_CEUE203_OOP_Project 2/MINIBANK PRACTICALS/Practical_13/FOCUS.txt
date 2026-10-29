@@ -1,0 +1,3 @@
+Practical 13
+generic Repository with @Id reflection, CRUD and bounded generics
+Run: javac MiniBank.java && java MiniBank

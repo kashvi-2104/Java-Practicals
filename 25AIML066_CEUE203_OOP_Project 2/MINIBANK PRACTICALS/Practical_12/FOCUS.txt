@@ -1,0 +1,3 @@
+Practical 12
+HashMap/ConcurrentHashMap store, history and sorting
+Run: javac MiniBank.java && java MiniBank

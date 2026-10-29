@@ -1,0 +1,3 @@
+Practical 01
+Menu shell, BankInfo record, MenuOption enum, Scanner and switch menu
+Run: javac MiniBank.java && java MiniBank

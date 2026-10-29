@@ -1,0 +1,3 @@
+Practical 05
+abstract Account hierarchy and runtime polymorphism
+Run: javac MiniBank.java && java MiniBank

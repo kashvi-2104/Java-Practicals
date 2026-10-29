@@ -1,0 +1,3 @@
+Practical 02
+Customer and encapsulated Account model with constructors and controlled deposit/withdraw
+Run: javac MiniBank.java && java MiniBank

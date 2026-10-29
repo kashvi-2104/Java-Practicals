@@ -1,0 +1,3 @@
+Practical 08
+checked bank exception hierarchy and safe transfer
+Run: javac MiniBank.java && java MiniBank

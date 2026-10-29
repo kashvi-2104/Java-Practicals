@@ -1,0 +1,3 @@
+Practical 04
+regex Validator, Command record/parser and statement formatting
+Run: javac MiniBank.java && java MiniBank

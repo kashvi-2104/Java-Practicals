@@ -1,0 +1,3 @@
+Practical 10
+ExecutorService transaction processing and batch jobs
+Run: javac MiniBank.java && java MiniBank

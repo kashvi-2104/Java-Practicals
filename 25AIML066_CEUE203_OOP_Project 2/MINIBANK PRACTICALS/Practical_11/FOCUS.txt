@@ -1,0 +1,3 @@
+Practical 11
+serialization, persistence, append-only logs and NIO report
+Run: javac MiniBank.java && java MiniBank

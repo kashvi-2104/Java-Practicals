@@ -1,0 +1,3 @@
+Practical 07
+custom annotations and reflection validation
+Run: javac MiniBank.java && java MiniBank

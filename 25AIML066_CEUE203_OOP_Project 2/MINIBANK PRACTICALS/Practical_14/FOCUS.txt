@@ -1,0 +1,3 @@
+Practical 14
+integrated BankService, persistent menu, batch processing and final capstone
+Run: javac MiniBank.java && java MiniBank
